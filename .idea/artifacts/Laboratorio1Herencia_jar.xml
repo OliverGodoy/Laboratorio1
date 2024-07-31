@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Laboratorio1Herencia:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Laboratorio1Herencia_jar</output-path>
+    <root id="archive" name="Laboratorio1Herencia.jar">
+      <element id="module-output" name="Laboratorio1Herencia" />
+    </root>
+  </artifact>
+</component>
